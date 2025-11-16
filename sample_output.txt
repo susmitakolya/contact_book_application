@@ -1,0 +1,6 @@
+Enter Name: susmita kolya
+Enter Phone Number: 8756349010
+Enter Email: susmitakolya@gmail.com
+Enter Address: kolkata
+
+ Contact 'susmita kolya' added successfully!
