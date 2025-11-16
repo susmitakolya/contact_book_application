@@ -1,1 +1,1 @@
-This is my contact book application project
+My contact book application project
